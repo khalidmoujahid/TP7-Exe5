@@ -1,0 +1,16 @@
+[
+    {
+        "id": "69383fdd3b957",
+        "nom": "MOUJAHID MOHAMED",
+        "message": "HELLO EVRYONE",
+        "date": "2025-12-09 16:27:25",
+        "ip": "127.0.0.1"
+    },
+    {
+        "id": "69383f948b197",
+        "nom": "MOUJAHID KHALID",
+        "message": "BONJOUR TOUS LE MONDE",
+        "date": "2025-12-09 16:26:12",
+        "ip": "127.0.0.1"
+    }
+]
